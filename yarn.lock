@@ -368,12 +368,12 @@
   resolved "https://registry.yarnpkg.com/@iarna/toml/-/toml-2.2.5.tgz#b32366c89b43c6f8cefbdefac778b9c828e3ba8c"
   integrity sha512-trnsAYxU3xnS1gPHPyU961coFyLkh4gAD/0zQ5mymY4yOZ+CYvsPqUbOFSw0aDM4y0tV7tiFxL/1XfXPNC6IPg==
 
-"@nikovirtala/projen-aws-cdk-app@^0.0.75":
-  version "0.0.75"
-  resolved "https://registry.yarnpkg.com/@nikovirtala/projen-aws-cdk-app/-/projen-aws-cdk-app-0.0.75.tgz#7a6fecc7bf28441131612fe3fbc1ed8e8b495ad4"
-  integrity sha512-el52/SdoHz5m78i2WYMR5xWVb4HQEl+LdW2QIKPERwfkNSmnXXVEprjWiIR/j40T4qaCcGnSef3/fzZKZDEzpQ==
+"@nikovirtala/projen-aws-cdk-app@^0.0.76":
+  version "0.0.76"
+  resolved "https://registry.yarnpkg.com/@nikovirtala/projen-aws-cdk-app/-/projen-aws-cdk-app-0.0.76.tgz#8c6db7420fa56cc66bba4e05de6218ebfd056eb4"
+  integrity sha512-rS3879duzbYGLRkDfJm/wEJU5yLnWqcDvmVFQx9iaPjQeItePFR46M9Rge103lEev5L600fdSR9EiCt0gPmGag==
   dependencies:
-    projen "^0.91.4"
+    projen "^0.91.5"
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
@@ -2098,7 +2098,7 @@ prettier@^3.4.2:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.4.2.tgz#a5ce1fb522a588bf2b78ca44c6e6fe5aa5a2b13f"
   integrity sha512-e9MewbtFo+Fevyuxn/4rrcDAaq0IYxPGLvObpQjiZBMAzB9IGmzlnG9RZy3FFas+eBMu2vA0CszMeduow5dIuQ==
 
-projen@^0.91.4, projen@^0.91.5:
+projen@^0.91.5:
   version "0.91.5"
   resolved "https://registry.yarnpkg.com/projen/-/projen-0.91.5.tgz#139f4210b4c1f5d406577ff08a53cca05f70eaa2"
   integrity sha512-j4gzywNELz3Adq5YZ6PoyyzZWXat29y7zdCi8pnkUjuuXdDJgx5dHDRM/KPyEJpo8ytx6hY5GOHsOZnea4/cgw==
