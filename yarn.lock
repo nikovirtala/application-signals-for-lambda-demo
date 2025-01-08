@@ -368,10 +368,10 @@
   resolved "https://registry.yarnpkg.com/@iarna/toml/-/toml-2.2.5.tgz#b32366c89b43c6f8cefbdefac778b9c828e3ba8c"
   integrity sha512-trnsAYxU3xnS1gPHPyU961coFyLkh4gAD/0zQ5mymY4yOZ+CYvsPqUbOFSw0aDM4y0tV7tiFxL/1XfXPNC6IPg==
 
-"@nikovirtala/projen-aws-cdk-app@^0.0.80":
-  version "0.0.80"
-  resolved "https://registry.yarnpkg.com/@nikovirtala/projen-aws-cdk-app/-/projen-aws-cdk-app-0.0.80.tgz#5a2996f04381d670edac1f49bafe8876261459b5"
-  integrity sha512-0ZlywYF16O4SS1ciDBtYucJeL44bISnSrYZILNQLgs4GCs8kTTj+lKQBCg9XsWxLy4BtMmTCHJddLuy9W39pow==
+"@nikovirtala/projen-aws-cdk-app@^0.0.82":
+  version "0.0.82"
+  resolved "https://registry.yarnpkg.com/@nikovirtala/projen-aws-cdk-app/-/projen-aws-cdk-app-0.0.82.tgz#79aa9c38e040a34a7aa7addd6f57b746ed34f0f6"
+  integrity sha512-Pdnme8zZDqzlCxS5+2ZuN5Gtzt06BVkjMUpcqCRyDDbjuFHrs/ZTM+a1ZBgK0FDZkdl9c8DnjQe+XGbzazINDw==
   dependencies:
     projen "^0.91.5"
 
@@ -1866,9 +1866,9 @@ jsonfile@^6.0.1:
     graceful-fs "^4.1.6"
 
 jsonschema@^1.4.1:
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/jsonschema/-/jsonschema-1.4.1.tgz#cc4c3f0077fb4542982973d8a083b6b34f482dab"
-  integrity sha512-S6cATIPVv1z0IlxdN+zUk5EPjkGCdnhN4wVSBlvoUO1tOLJootbo9CquNJmbIh4yikWHiUedhRYrNPn1arpEmQ==
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/jsonschema/-/jsonschema-1.5.0.tgz#f6aceb1ab9123563dd901d05f81f9d4883d3b7d8"
+  integrity sha512-K+A9hhqbn0f3pJX17Q/7H6yQfD/5OXgdrR5UE12gMXCiN9D5Xq2o5mddV2QEcX/bjla99ASsAAQUyMCCRWAEhw==
 
 keyv@^4.5.4:
   version "4.5.4"
