@@ -369,10 +369,10 @@
   resolved "https://registry.yarnpkg.com/@iarna/toml/-/toml-2.2.5.tgz#b32366c89b43c6f8cefbdefac778b9c828e3ba8c"
   integrity sha512-trnsAYxU3xnS1gPHPyU961coFyLkh4gAD/0zQ5mymY4yOZ+CYvsPqUbOFSw0aDM4y0tV7tiFxL/1XfXPNC6IPg==
 
-"@nikovirtala/projen-aws-cdk-app@^0.0.90":
-  version "0.0.90"
-  resolved "https://registry.yarnpkg.com/@nikovirtala/projen-aws-cdk-app/-/projen-aws-cdk-app-0.0.90.tgz#776dfb975f9f07f4ebb74125313d9c922e72f6e6"
-  integrity sha512-hZcD/+BzUIxTyDwS+h2D4Xf0x+gApyjFgZV4zl216isSU+zHzOTbhPaQ9U5Pkqs59/uLo0NqJ+wyG8C+rIoy+g==
+"@nikovirtala/projen-aws-cdk-app@^0.0.91":
+  version "0.0.91"
+  resolved "https://registry.yarnpkg.com/@nikovirtala/projen-aws-cdk-app/-/projen-aws-cdk-app-0.0.91.tgz#7641ec93127fc50f700304dbe15144caec96bce9"
+  integrity sha512-ybaRWyez2lEXAgGb5viuNEiII2x5BEiLyb5czwEfO7G+q7bkcAh+f2zoDdPFEKWzVIonqwMKK/2WekhWJsUBjA==
   dependencies:
     projen "^0.91.6"
 
@@ -462,9 +462,9 @@
   integrity sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==
 
 "@types/node@^22":
-  version "22.10.6"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.10.6.tgz#5c6795e71635876039f853cbccd59f523d9e4239"
-  integrity sha512-qNiuwC4ZDAUNcY47xgaSuS92cjf8JbSUoaKS77bmLG1rU7MlATVSiw/IlrjtIyyskXBZ8KkNfjK/P5na7rgXbQ==
+  version "22.10.7"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.10.7.tgz#14a1ca33fd0ebdd9d63593ed8d3fbc882a6d28d7"
+  integrity sha512-V09KvXxFiutGp6B7XkpaDXlNadZxrzajcY50EuoLIpQ6WWYCSvf19lVIazzfIzQvhUN2HjX12spLojTnhuKlGg==
   dependencies:
     undici-types "~6.20.0"
 
