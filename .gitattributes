@@ -25,4 +25,5 @@
 /package.json linguist-generated
 /tsconfig.dev.json linguist-generated
 /tsconfig.json linguist-generated
+/vitest.config.ts linguist-generated
 /yarn.lock linguist-generated

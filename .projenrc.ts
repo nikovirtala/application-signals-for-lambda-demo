@@ -13,7 +13,6 @@ const project = new AwsCdkApp({
         },
     },
     devDeps: ["@nikovirtala/projen-aws-cdk-app"],
-    mergify: true,
     name: "application-signals-for-lambda-demo",
     projenrcTs: true,
 });
