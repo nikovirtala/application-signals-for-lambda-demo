@@ -579,9 +579,9 @@
     projen "^0.91.6"
 
 "@nikovirtala/projen-vitest@^1":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@nikovirtala/projen-vitest/-/projen-vitest-1.2.0.tgz#50ae56fdfaf0fef4b31b2620d9bb6f2068bfdc90"
-  integrity sha512-kX0Vq0y9BInsEEzrdDAPYoFfmwl56s1WTP+C4REUbjVOy2rCphUbw2WDKVZAlEufJCNthWMOHG3oHgPyM10yBw==
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@nikovirtala/projen-vitest/-/projen-vitest-1.2.1.tgz#962229967939ded00383df2456c5b194a389d1c0"
+  integrity sha512-Rp6PoYk9wvFW32VBRvF+9mx3swiDMOHAexlqLoQzXDhZLHrgZ3WU7/GHtTByZzs3MAQ1rZFn5veoDZsxWGOQgQ==
   dependencies:
     projen "^0.91.6"
 
