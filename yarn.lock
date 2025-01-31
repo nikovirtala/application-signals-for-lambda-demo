@@ -579,11 +579,11 @@
     projen "^0.91.6"
 
 "@nikovirtala/projen-vitest@^1":
-  version "1.2.4"
-  resolved "https://registry.yarnpkg.com/@nikovirtala/projen-vitest/-/projen-vitest-1.2.4.tgz#b9bcbeadb56d88bbeaa823642bb98e640e82ca59"
-  integrity sha512-kNyUzo6W54xfg0XYZqRaC4tqZQTO7E89cG0hJhojEbC/pBxaOn0YukXRmj2Mv9ZaWV3b/+0uv77Kh+8ZIgABDA==
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/@nikovirtala/projen-vitest/-/projen-vitest-1.2.5.tgz#1cf2a5996c58d499b614a08eaaca8d60fcbcb858"
+  integrity sha512-U5k2Eee0ASpz96fujutrmNSCLon7746cssyP/hohdw+Sb0AcXF+ZUuYldKPFj+sO2pCCg8mKDzODVWLRI86DrQ==
   dependencies:
-    projen "^0.91.6"
+    projen "^0.91.7"
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
@@ -1803,9 +1803,9 @@ fast-uri@^3.0.1:
   integrity sha512-Atfo14OibSv5wAp4VWNsFYE1AchQRTv9cBGWET4pZWHzYshFSS9NQI6I57rdKn9croWVMbYFbLhJ+yJvmZIIHw==
 
 fastq@^1.6.0:
-  version "1.18.0"
-  resolved "https://registry.yarnpkg.com/fastq/-/fastq-1.18.0.tgz#d631d7e25faffea81887fe5ea8c9010e1b36fee0"
-  integrity sha512-QKHXPW0hD8g4UET03SdOdunzSouc9N4AuHdsX8XNcTsuz+yYFILVNIX4l9yHABMhiEI9Db0JTTIpu0wB+Y1QQw==
+  version "1.19.0"
+  resolved "https://registry.yarnpkg.com/fastq/-/fastq-1.19.0.tgz#a82c6b7c2bb4e44766d865f07997785fecfdcb89"
+  integrity sha512-7SFSRCNjBQIZH/xZR3iy5iQYR8aGBE0h3VG6/cwlbrpdciNYBMotQav8c1XI3HjHH+NikUpP53nPdlZSdWmFzA==
   dependencies:
     reusify "^1.0.4"
 
@@ -2750,10 +2750,10 @@ prettier@^3.4.2:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.4.2.tgz#a5ce1fb522a588bf2b78ca44c6e6fe5aa5a2b13f"
   integrity sha512-e9MewbtFo+Fevyuxn/4rrcDAaq0IYxPGLvObpQjiZBMAzB9IGmzlnG9RZy3FFas+eBMu2vA0CszMeduow5dIuQ==
 
-projen@^0.91.6:
-  version "0.91.6"
-  resolved "https://registry.yarnpkg.com/projen/-/projen-0.91.6.tgz#3e04c7e5987df18988096037efe392deda0bf2ad"
-  integrity sha512-azGxE8BDX7jkS+PovP8s70+wuURVOwtXYUh2z+kXbP11WDq4Gpfo5F/IyRQTI1kPrHR8sQbXkEnLGi2xIroBxA==
+projen@^0.91.6, projen@^0.91.7:
+  version "0.91.7"
+  resolved "https://registry.yarnpkg.com/projen/-/projen-0.91.7.tgz#7a1bca77dcc70d0c93df34d41d04a9f6623d1a9b"
+  integrity sha512-HECW1Q/0TzS1fKVGpobr/fcLAHRWGfaOL7GmLAmwh0enhcmeE0Tld5kjyb8Sj+q3Hf0KdWP8lufuQ0WxltYcYQ==
   dependencies:
     "@iarna/toml" "^2.2.5"
     case "^1.6.3"
@@ -2764,7 +2764,7 @@ projen@^0.91.6:
     fast-json-patch "^3.1.1"
     glob "^8"
     ini "^2.0.0"
-    semver "^7.6.3"
+    semver "^7.7.0"
     shx "^0.3.4"
     xmlbuilder2 "^3.1.1"
     yaml "^2.2.2"
@@ -2920,7 +2920,7 @@ semver@^6.3.1:
   resolved "https://registry.yarnpkg.com/semver/-/semver-6.3.1.tgz#556d2ef8689146e46dcea4bfdd095f3434dffcb4"
   integrity sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA==
 
-semver@^7.5.3, semver@^7.6.0, semver@^7.6.3:
+semver@^7.5.3, semver@^7.6.0, semver@^7.6.3, semver@^7.7.0:
   version "7.7.0"
   resolved "https://registry.yarnpkg.com/semver/-/semver-7.7.0.tgz#9c6fe61d0c6f9fa9e26575162ee5a9180361b09c"
   integrity sha512-DrfFnPzblFmNrIZzg5RzHegbiRWg7KMR7btwi2yjHwx06zsUbO5g613sVwEV7FTwmzJu+Io0lJe2GJ3LxqpvBQ==
