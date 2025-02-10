@@ -586,9 +586,9 @@
     projen "^0.91.6"
 
 "@nikovirtala/projen-vitest@^1":
-  version "1.2.10"
-  resolved "https://registry.yarnpkg.com/@nikovirtala/projen-vitest/-/projen-vitest-1.2.10.tgz#a05732ae79ee468aa4b1de2ead6982b2c8c08b06"
-  integrity sha512-4IhfNps3DIiwbyUcvmMfh4fuBjxh+Nq/XMIWYXBd73KYA5TMTINIbl2k9JzjmvjnXimu2M38Y7+cX45SFaH4Zg==
+  version "1.2.11"
+  resolved "https://registry.yarnpkg.com/@nikovirtala/projen-vitest/-/projen-vitest-1.2.11.tgz#4bba98a4e92682a3aed764da956e1b76544deeaf"
+  integrity sha512-rITbkLYpEhCsm3pPTFgYtkXBGWdbAOUV9zPr3INr7Ww/InbLZCOT5hOo3Cv9p07MMJQTmF2wOS6NAWyMICVrPA==
   dependencies:
     projen "^0.91.8"
 
@@ -2752,10 +2752,10 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier@^3.4.2:
-  version "3.4.2"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.4.2.tgz#a5ce1fb522a588bf2b78ca44c6e6fe5aa5a2b13f"
-  integrity sha512-e9MewbtFo+Fevyuxn/4rrcDAaq0IYxPGLvObpQjiZBMAzB9IGmzlnG9RZy3FFas+eBMu2vA0CszMeduow5dIuQ==
+prettier@^3.5.0:
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.5.0.tgz#50325a28887c6dfdf2ca3f8eaba02b66a8429ca7"
+  integrity sha512-quyMrVt6svPS7CjQ9gKb3GLEX/rl3BCL2oa/QkNcXv4YNVBC9olt3s+H7ukto06q7B1Qz46PbrKLO34PR6vXcA==
 
 projen@^0.91.6, projen@^0.91.8:
   version "0.91.8"
