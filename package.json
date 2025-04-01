@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "@types/aws-lambda": "^8.10.147",
-    "aws-cdk-lib": "2.170.0",
+    "aws-cdk-lib": "2.186.0",
     "constructs": "^10.0.5"
   },
   "engines": {
