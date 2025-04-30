@@ -375,11 +375,11 @@
     projen "^0.91.18"
 
 "@nikovirtala/projen-vitest@^2":
-  version "2.0.12"
-  resolved "https://registry.yarnpkg.com/@nikovirtala/projen-vitest/-/projen-vitest-2.0.12.tgz#be954c227ef2796665fb14ab353fa54733b58ea6"
-  integrity sha512-9urT3xzn93OmtgP6OKARcysvoNGiI5COJ9q49I5/V2ZMeMxsl0k0aHmleUMegJATMIir2PMrnxxl/Nvmz0HPXA==
+  version "2.0.13"
+  resolved "https://registry.yarnpkg.com/@nikovirtala/projen-vitest/-/projen-vitest-2.0.13.tgz#3f239d35f18ddbc79f7b40abe1f1b311fcbbfc47"
+  integrity sha512-TL1YWU3Xky991AFaOObzy08s+5PEodcWxhLM8ZarQYhQe9rN6usUokJieEjXdyLrHNrYtfZthSuvRTLTEcVO6w==
   dependencies:
-    projen "^0.91.27"
+    projen "^0.91.28"
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
@@ -2646,10 +2646,10 @@ prettier@^3.5.3:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.5.3.tgz#4fc2ce0d657e7a02e602549f053b239cb7dfe1b5"
   integrity sha512-QQtaxnoDJeAkDvDKWCLiwIXkTgRhwYDEQCghU9Z6q03iyek/rxRh/2lC3HB7P8sWT2xC/y5JDctPLBIGzHKbhw==
 
-projen@^0.91.18, projen@^0.91.27:
-  version "0.91.27"
-  resolved "https://registry.yarnpkg.com/projen/-/projen-0.91.27.tgz#e31dfc601eadaf16e710261ee36faba8d80489bf"
-  integrity sha512-8/+F3cngJ4dSuopDtmEyBIIrQLm9tvRMFF7FTwHMMYOwRpyHc5pEM0GMWgXCZvD6Z8ANBTpS9/Vc6ZoosSsh0A==
+projen@^0.91.18, projen@^0.91.28:
+  version "0.91.28"
+  resolved "https://registry.yarnpkg.com/projen/-/projen-0.91.28.tgz#6d4c2bdc6391d5020de33090d8210bf343656742"
+  integrity sha512-HENAqV53qX83IrbRUm2FYX+BYBS6NqTrAbXLsy4MlNGLxJa6qQDXTXzwQtK7gE/n7w/E8b0PZjA0XyD32NBxlw==
   dependencies:
     "@iarna/toml" "^2.2.5"
     case "^1.6.3"
@@ -3192,10 +3192,10 @@ tslib@^2.4.0, tslib@^2.8.1:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.8.1.tgz#612efe4ed235d567e8aba5f2a5fab70280ade83f"
   integrity sha512-oJFu94HQb+KVduSUQL7wnpmqnfmLsOA/nAh6b6EH0wCEoK0/mPeXU6c3wKDV83MkOuHPRHtSXKKU99IBazS/2w==
 
-tsx@^4.19.3:
-  version "4.19.3"
-  resolved "https://registry.yarnpkg.com/tsx/-/tsx-4.19.3.tgz#2bdbcb87089374d933596f8645615142ed727666"
-  integrity sha512-4H8vUNGNjQ4V2EOoGw005+c+dGuPSnhpPBPHBtsZdGZBk/iJb4kguGlPWaZTZ3q5nMtFOEsY0nRDlh9PJyd6SQ==
+tsx@^4.19.4:
+  version "4.19.4"
+  resolved "https://registry.yarnpkg.com/tsx/-/tsx-4.19.4.tgz#647b4141f4fdd9d773a9b564876773d2846901f4"
+  integrity sha512-gK5GVzDkJK1SI1zwHf32Mqxf2tSJkNx+eYcNly5+nHvWqXUJYUkWBQtKauoESz3ymezAI++ZwT855x5p5eop+Q==
   dependencies:
     esbuild "~0.25.0"
     get-tsconfig "^4.7.5"
