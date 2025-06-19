@@ -4,7 +4,7 @@ const project = new AwsCdkApp({
         secret: "GITHUB_TOKEN",
         allowedUsernames: ["nikovirtala"],
     },
-    cdkVersion: "2.187.0",
+    cdkVersion: "2.201.0",
     defaultReleaseBranch: "main",
     deps: ["@types/aws-lambda"],
     depsUpgradeOptions: {
@@ -14,7 +14,5 @@ const project = new AwsCdkApp({
     },
     devDeps: ["@nikovirtala/projen-aws-cdk-app"],
     name: "application-signals-for-lambda-demo",
-    minNodeVersion: "22.14.0",
-    projenrcTs: true,
 });
 project.synth();

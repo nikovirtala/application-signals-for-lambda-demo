@@ -1,6 +1,7 @@
 {
   "name": "application-signals-for-lambda-demo",
   "scripts": {
+    "biome": "npx projen biome",
     "build": "npx projen build",
     "bundle": "npx projen bundle",
     "clobber": "npx projen clobber",
@@ -10,7 +11,6 @@
     "destroy": "npx projen destroy",
     "diff": "npx projen diff",
     "eject": "npx projen eject",
-    "eslint": "npx projen eslint",
     "package": "npx projen package",
     "post-compile": "npx projen post-compile",
     "post-upgrade": "npx projen post-upgrade",
@@ -25,32 +25,26 @@
     "projen": "npx projen"
   },
   "devDependencies": {
-    "@nikovirtala/projen-aws-cdk-app": "^0.0.102",
-    "@nikovirtala/projen-vitest": "^2",
+    "@biomejs/biome": "^1",
+    "@nikovirtala/projen-aws-cdk-app": "^0.0.117",
+    "@nikovirtala/projen-vitest": "^2.0.46",
     "@types/node": "^22",
-    "@typescript-eslint/eslint-plugin": "^8",
-    "@typescript-eslint/parser": "^8",
     "@vitest/coverage-v8": "^3",
     "aws-cdk": "^2",
-    "esbuild": "^0.25.3",
-    "eslint": "^9",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-import-resolver-typescript": "^3.10.1",
-    "eslint-plugin-import": "^2.31.0",
-    "eslint-plugin-prettier": "^5.2.6",
-    "prettier": "^3.5.3",
-    "projen": "^0.91.29",
-    "tsx": "^4.19.4",
-    "typescript": "5.8.2",
+    "esbuild": "^0.25.5",
+    "projen": "^0.93.0",
+    "tsx": "^4.20.3",
+    "typescript": "5.8.3",
     "vitest": "^3"
   },
   "dependencies": {
-    "@types/aws-lambda": "^8.10.149",
-    "aws-cdk-lib": "2.187.0",
+    "@types/aws-lambda": "^8.10.150",
+    "aws-cdk-lib": "^2.201.0",
     "constructs": "^10.0.5"
   },
+  "pnpm": {},
   "engines": {
-    "node": ">= 22.14.0"
+    "node": ">= 22.16.0"
   },
   "license": "Apache-2.0",
   "publishConfig": {

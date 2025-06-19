@@ -35,15 +35,14 @@ jspm_packages/
 !/.mergify.yml
 !/.github/workflows/upgrade.yml
 !/.github/pull_request_template.md
-!/.prettierignore
-!/.prettierrc.json
+!/biome.jsonc
+!/.npmrc
 !/test/
 !/tsconfig.json
 !/tsconfig.dev.json
 !/src/
 /lib
 /dist/
-!/.eslintrc.json
 /assets/
 !/cdk.json
 /cdk.out/
@@ -51,7 +50,7 @@ jspm_packages/
 .parcel-cache/
 !/.vscode/extensions.json
 !/.vscode/settings.json
-!/.nvmrc
+!/mise.toml
 /coverage/
 !/vitest.config.ts
 !/.projenrc.ts
