@@ -1,4 +1,5 @@
 import { AwsCdkApp } from "@nikovirtala/projen-aws-cdk-app";
+
 const project = new AwsCdkApp({
     autoApproveOptions: {
         secret: "GITHUB_TOKEN",

@@ -1,5 +1,5 @@
 import { join } from "node:path";
-import { App, CfnOutput, Stack, type StackProps, aws_iam, aws_lambda, aws_lambda_nodejs } from "aws-cdk-lib";
+import { App, aws_iam, aws_lambda, aws_lambda_nodejs, CfnOutput, Stack, type StackProps } from "aws-cdk-lib";
 import { OutputFormat } from "aws-cdk-lib/aws-lambda-nodejs";
 import type { Construct } from "constructs";
 
