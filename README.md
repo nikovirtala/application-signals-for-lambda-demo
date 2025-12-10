@@ -41,8 +41,3 @@ The project configuration is defined in `.projenrc.ts`. To modify project settin
 1. Edit `.projenrc.ts`
 2. Run `pnpm projen` to regenerate configuration files
 3. Never manually edit generated files (they are marked with warnings)
-## Links
-
--   https://aws.amazon.com/blogs/aws/track-performance-of-serverless-applications-built-using-aws-lambda-with-application-signals/
-
--   https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch-Application-Signals-Enable-Lambda.html
