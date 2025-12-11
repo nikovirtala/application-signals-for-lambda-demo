@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@biomejs/biome": "^2",
-    "@nikovirtala/projen-constructs": "^0.2.34",
+    "@nikovirtala/projen-constructs": "^0.2.35",
     "@types/node": "^24",
     "@vitest/coverage-v8": "^4",
     "aws-cdk": "^2",
@@ -41,12 +41,12 @@
   },
   "dependencies": {
     "@types/aws-lambda": "^8.10.159",
-    "aws-cdk-lib": "^2.201.0",
+    "aws-cdk-lib": "^2.232.1",
     "constructs": "^10.4.3"
   },
   "pnpm": {},
   "engines": {
-    "node": ">= 24.11.1"
+    "node": ">= 24.12.0"
   },
   "license": "Apache-2.0",
   "publishConfig": {
