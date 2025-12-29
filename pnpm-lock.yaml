@@ -22,8 +22,8 @@ importers:
         specifier: ^2
         version: 2.3.10
       '@nikovirtala/projen-constructs':
-        specifier: ^0.2.52
-        version: 0.2.52(@mrgrain/cdk-esbuild@5.7.5(aws-cdk-lib@2.233.0(constructs@10.4.4))(constructs@10.4.4))(constructs@10.4.4)(projen@0.98.30(constructs@10.4.4))
+        specifier: ^0.2.53
+        version: 0.2.53(@mrgrain/cdk-esbuild@5.7.5(aws-cdk-lib@2.233.0(constructs@10.4.4))(constructs@10.4.4))(constructs@10.4.4)(projen@0.98.30(constructs@10.4.4))
       '@types/node':
         specifier: ^24
         version: 24.10.4
@@ -466,8 +466,8 @@ packages:
       aws-cdk-lib: ^2.51.0
       constructs: ^10.0.5
 
-  '@nikovirtala/projen-constructs@0.2.52':
-    resolution: {integrity: sha512-ufKKqLd10FimZ9h/f4kI1T0iHg1NDHvLi+erYfPq2z7xgbTLCkcZNDto7eJwudtY8iBW8KjVTkE6YlZlcDHsnw==}
+  '@nikovirtala/projen-constructs@0.2.53':
+    resolution: {integrity: sha512-TCTBMgZxbdU2LOqHy8IP9EQNe06v9SInU6Qganpl/TD5GFiNS7T5/RWPqFNhGcqZTwCeonXentYSZ7YIi3mbew==}
     engines: {node: '>= 24.12.0'}
     peerDependencies:
       '@mrgrain/cdk-esbuild': ^5.7.6
@@ -1181,7 +1181,7 @@ snapshots:
     optionalDependencies:
       esbuild: 0.25.12
 
-  '@nikovirtala/projen-constructs@0.2.52(@mrgrain/cdk-esbuild@5.7.5(aws-cdk-lib@2.233.0(constructs@10.4.4))(constructs@10.4.4))(constructs@10.4.4)(projen@0.98.30(constructs@10.4.4))':
+  '@nikovirtala/projen-constructs@0.2.53(@mrgrain/cdk-esbuild@5.7.5(aws-cdk-lib@2.233.0(constructs@10.4.4))(constructs@10.4.4))(constructs@10.4.4)(projen@0.98.30(constructs@10.4.4))':
     dependencies:
       '@mrgrain/cdk-esbuild': 5.7.5(aws-cdk-lib@2.233.0(constructs@10.4.4))(constructs@10.4.4)
       constructs: 10.4.4
